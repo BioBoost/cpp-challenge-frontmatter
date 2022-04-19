@@ -108,5 +108,6 @@ Below are some general guidelines for this assignment:
 * Make sure that both projects have `Makefile` to compile the applications
 * Both applications should be linux compatible.
 * Provide a decent README for both projects ! Describe the tool, how to set it up, how it works, what to expect, ...
+* Provide a `.gitignore` file for the executables and make sure not to commit them in the repo.
 
 You can find an example markdown file in the directory `./hello-world`.
